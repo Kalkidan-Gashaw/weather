@@ -1,0 +1,40 @@
+.footer{
+  margin-top: 300px;
+  border: none;
+  border-radius: 30px;
+  background-color: rgba(211, 211, 211, 0.4);
+  padding: 10px;
+}
+.main{
+  margin-top: 60px;
+}
+.temp{
+  font-size: 60px;
+
+}
+p{
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+.fp{
+  font-size: 25px;
+}
+body{
+  background-image: url('./assets/1692370175225.jpg');
+  background-position: center;
+  background-size:cover ;
+  background-repeat: no-repeat;
+  height: 100vh;
+ 
+}
+.inpf{
+  background-color: rgba(211, 211, 211, 0.4);
+
+ 
+}
+.loc{
+  font-size: 35px;
+  color: white;
+  font-weight: 900;
+}
